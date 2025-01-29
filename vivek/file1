@@ -1,0 +1,4 @@
+To simplify the adoption of FHE, 
+which involves a complex and resourc
+e-intensive technological stack, Zama
+ developed tools that streamline the integration of FHE into applications. Since Python is the de facto standard for building machine learning (ML) applications, it was an obvious choice to create an open-source FHE library in Python.
